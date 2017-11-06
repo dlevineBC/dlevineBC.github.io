@@ -1,29 +1,38 @@
 ---
 layout: post
-title: Buttons
+title: Check Eligibility
 ---
-Use buttons to move though a transaction, aim to use only one button per page.
+This pattern explains how to help users work out if they can or should use your service by asking them a series of questions.
 
-## Button text
+**User Story: As a user I need to confirm that I meet a requirement so that I can access a service.
+**Government View: Government enables citizens to verify that they are eligible to receive a service and access its benefits.
 
-Button text should be short and describe the action the button performs.
+## Why use this pattern
 
-```html
-<a class="btn btn-primary" href="#" target="_self">Apply</a>
-```
+Using ‘Check Eligibility’ can lower your operating costs by reducing the time and effort that support teams spend explaining your service.
 
-## Button alignment
+Services also spend time and effort processing applications from users who don’t need, aren’t eligible or aren’t ready to use a service.
 
-Align the primary action button to the left edge of your form, in the user’s line of sight
+## When to use this pattern
 
-## Disabled buttons
+Use 'Check Eligbility' as one of the first steps in your service.
 
-Don’t disable buttons, unless there’s a good reason to
+You should help people find out whether your service is right for them as soon as you can. Doing this means they won’t waste time trying to use it if they’re not eligible or don’t need it.
 
-If you have to disable buttons, make sure they look like you can’t click them (use 50% opacity)
+## How to use this pattern
 
-Use the aria-disabled attribute for older screen readers
+When using this pattern, you need to:
 
-An example of a useful disabled option is a calendar with greyed out days where no bookings are available
+1. Ask a series of simple questions.
 
-Provide another way for the user to continue, add an error message or text to explain why the button is disabled
+2. Automatically work out what a user needs to know.
+
+3. Present the user with a ‘results’ if they are eligible for the service.
+
+If the user is not eligible for the service based on their responses, provide clear direction on next steps or alternate ways to access the service if they are available.
+
+## Research and Discussion
+
+Discuss the use of this pattern on the 'Check Eligibility' wiki
+
+## Related Guides
