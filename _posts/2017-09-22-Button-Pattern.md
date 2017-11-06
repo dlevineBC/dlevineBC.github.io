@@ -30,10 +30,15 @@ When using this pattern, you need to:
 
 3. Present the user with a ‘results’ if they are eligible for the service.
 
-If the user is not eligible for the service based on their responses, provide clear direction on next steps or alternate ways to access the service if they are available.
+If the user is not eligible for the service based on their responses, provide clear direction on next steps of any alternative ways to access the service.
 
 ## Research and Discussion
 
 Discuss the use of this pattern on the 'Check Eligibility' wiki
 
-## Related Guides
+## Related Patterns
+
+* Estimating Service Timeline
+* Preview Service
+* Submit Information
+
