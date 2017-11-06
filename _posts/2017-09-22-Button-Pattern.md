@@ -5,6 +5,7 @@ title: Check Eligibility
 This pattern explains how to help users work out if they can or should use your service by asking them a series of questions.
 
 **User Story: As a user I need to confirm that I meet a requirement so that I can access a service.
+
 **Government View: Government enables citizens to verify that they are eligible to receive a service and access its benefits.
 
 ## Why use this pattern
