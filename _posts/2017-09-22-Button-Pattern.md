@@ -4,9 +4,11 @@ title: Check Eligibility
 ---
 This pattern explains how to help users work out if they can or should use your service by asking them a series of questions.
 
-__User Story: As a user I need to confirm that I meet a requirement so that I can access a service.
+User Story: As a user I need to confirm that I meet a requirement so that I can access a service.
 
-__Government View: Government enables citizens to verify that they are eligible to receive a service and access its benefits.
+Government View: Government enables citizens to verify that they are eligible to receive a service and access its benefits.
+
+![GitHub Logo](/images/Check-eligbility.jpeg)
 
 ## Why use this pattern
 
