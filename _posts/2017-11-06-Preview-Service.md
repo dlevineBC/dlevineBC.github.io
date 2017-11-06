@@ -6,7 +6,7 @@ This pattern explains how to help users understand what a service involves so th
 
 ## Example
 
-![MSP Eligibility](/images/Check-eligbility.jpeg)
+![Preview Service](/images/preview-service.jpeg)
 
 ## Why use this pattern
 
