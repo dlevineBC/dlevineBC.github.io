@@ -6,7 +6,7 @@ This pattern asks people to consent to a specifc set of conditions before they u
 
 ## Example
 
-![MSP Eligibility](/images/Check-eligbility.jpeg)
+![Consent](/images/information-notice.jpeg)
 
 ## Why use this pattern
 
